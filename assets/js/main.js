@@ -6,7 +6,7 @@
 		
 	//typed activate
     $('.header-inner h6').typed({
-        strings: ["Grapich Designer", "UI/UX  Designer", "Photography"],
+        strings: ["能同途偶遇在这星球上", "燃亮飘渺人生", "我多么够运"],
         loop: true,
         startDelay: 1000,
         backDelay: 1000,
